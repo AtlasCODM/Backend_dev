@@ -1,0 +1,7 @@
+[
+    { "id": 1, "title": "Signspot", "image": "/assets/project1.jpg" },
+    { "id": 2, "title": "Bettr", "image": "/assets/project2.jpg" },
+    { "id": 3, "title": "Sportshop", "image": "/assets/project3.jpg" },
+    { "id": 4, "title": "MadeUp", "image": "/assets/project4.jpg" }
+  ]
+  
